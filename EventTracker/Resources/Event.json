@@ -1,0 +1,82 @@
+[
+  {
+	"eventName":"Metallica Concert",
+	"location":"Palace Grounds",
+	"entryType":"Paid",
+	"rating":4.0,
+	"description":"Metallica is an American heavy metal band formed in Los Angeles, California. The band was formed in 1981 when vocalist/guitarist James Hetfield responded to an advertisement posted by drummer Lars Ulrich in a local newspaper. Metallica's current line-up comprises founding members Hetfield and Ulrich, longtime lead guitarist Kirk Hammett and bassist Robert Trujillo. Guitarist Dave Mustaine and bassists Ron McGovney, Cliff Burton and Jason Newsted are former members of the band.",
+	"image_name":"metallica_image"
+  },
+{
+	"eventName":"Saree Exhibition",
+	"location":"Malleswaram Grounds",
+	"entryType":"Free",
+	"rating":3.0,
+	"description":"Handloom sarees are a traditional textile art of Bangladesh and India. The production of handloom sarees are important for economic development in rural India. Completion of a single saree takes two to three days of work. Several regions have their own traditions of handloom sarees.",
+	"image_name":"saree_exhibition_Image"
+  },
+{
+	"eventName":"Wine tasting",
+	"location":"Links Brewery",
+	"entryType":"Paid",
+	"rating":5.0,
+	"description":"Wine tasting (often, in wine circles, simply tasting) is the sensory examination and evaluation of wine. While the practice of wine tasting is as ancient as its production, a more formalized methodology has slowly become established from the 14th century onwards. Modern, professional wine tasters (such as sommeliers or buyers for retailers) use a constantly evolving specialized terminology which is used to describe the range of perceived flavors, aromas and general characteristics of a wine. More informal, recreational tasting may use similar terminology, usually involving a much less analytical process for a more general, personal appreciation.",
+	"image_name":"wine_tasting_image"
+  },
+{
+	"eventName":"Startups Meets",
+	"location":"Kanteerava Indoor Stadium",
+	"entryType":"Paid",
+	"rating":4.0,
+	"description":"Join Startup Meet Delhi to see the battle of entrepreneurs as they pitch to investors! Each Startup Meet follows the same format of 3hrs. The meetup kickstart with pitch by each of the shortlisted startups to angel investors & accelerators. Organizers host a short panel discussion with investors, followed by Q&A between investors & audience. It concludes with networking snacks & drinks.",
+	"image_name":"startupMeet"
+  },
+{
+	"eventName":"Summer Noon Party",
+	"location":"Kumara Park",
+	"entryType":"Paid",
+	"rating":2.0,
+	"description":"A party is a gathering of people who have been invited by a host for the purposes of socializing, conversation, recreation, or as part of a festival or other commemoration of a special occasion. A party will typically feature food and beverages, and often music and dancing or other forms of entertainment. In many Western countries, parties for teens and adults are associated with drinking alcohol such as beer, wine or distilled spirits.",
+	"image_name":"summer_party_image"
+  },
+{
+	"eventName":"Rock and Roll nights",
+	"location":"Sarjapur Road",
+	"entryType":"Paid",
+	"rating":5.0,
+	"description":"Rock and Roll Night Club is Canadian recording artist Mac DeMarco's debut mini-LP. It was recorded in 2012 in DeMarco's Montreal-based studio Jizz Jazz Studios and released through Captured Tracks on March 13, 2012.",
+	"image_name":"RockandRoll"
+  },
+{
+	"eventName":"Barbecue Fridays",
+	"location":"Whitefield",
+	"entryType":"Paid",
+	"rating":2.0,
+	"description":"Barbecue (informally barbeque, BBQ or barby/barbies) is both a cooking method and an apparatus. The generally accepted differences between barbecuing and grilling are cooking durations and the types of heat used. Grilling is generally done quickly over moderate-to-high direct heat that produces little smoke, while barbecuing is done slowly over low, indirect heat and the food is flavored by the smoking process. The word barbecue when used as a noun can refer to the cooking method, the meat cooked in this way, the cooking apparatus (the 'barbecue grill' or simply 'barbecue'), or to an event where this style of food is featured. Used as an adjective, 'barbecued' refers to foods cooked by this method. The term is also used as a verb for the act of cooking food in this manner. Barbecuing is usually done out-of-doors by smoking the meat over wood or charcoal. Restaurant barbecue may be cooked in large brick or metal ovens designed for that purpose. There are numerous regional variations of barbecuing, and it is practiced in many areas of the world.",
+	"image_name":"barbeque"
+  },
+{
+	"eventName":"Summer workshop",
+	"location":"Indiranagar",
+	"entryType":"Free",
+	"rating":3.0,
+	"description":"Summer camp is a supervised program for children or teenagers conducted during the summer months in some countries. Children and adolescents who attend summer camp are known as campers. This is not to be confused with summer school, which is usually a required academic curriculum for a student to make up work not accomplished during the academic year, whereas summer camps can include academic work, but is not a requirement for graduation. The traditional view of a summer camp as a woody place with hiking, canoeing, and campfires is evolving, with greater acceptance of newer summer camps that offer a wide variety of specialized activities. For example, there are camps for the performing arts, music, magic, computers, language learning, mathematics, children with special needs, and weight loss. In 2006, the American Camp Association reported that 75 percent of camps added new programs. This is largely to counter a trend in decreasing enrollment in summer camps, which some argue to have been brought about by smaller family sizes and the growth in supplemental educational programs. There are also religiously affiliated summer camps, such as those run by Christian groups and various denominations of Judaism. The primary purpose of many camps is educational or cultural development. A summer camp environment may allow children to take healthy risks in a safe and nurturing environment.",
+	"image_name":"summer_workshop"
+  },
+{
+	"eventName":"Impressions & Expressions",
+	"location":"MG Road",
+	"entryType":"Free",
+	"rating":1.0,
+	"description":"Expression (Lat. expressio) in architecture implies a clear and authentic displaying of the character or personality of an individual (architect). The expression is often identified with the architectural movement of expressionism, whose main starting point and aim is to present and express what has been „seen“ or experienced in the inner eye of the mind, heart and soul, i.e. to express the subjective moods and feelings without referring to conventional and „objective” values, judgments and truths. The main problem in the critical analysis of the theoretical interpretations of the concept of expression in architecture, lies in the fact that the concept of expression is used in different ways in different fields of science and art.",
+	"image_name":"impression"
+  },
+{
+	"eventName":"Italian carnival",
+	"location":"Electronic City",
+	"entryType":"Free",
+	"rating":3.0,
+	"description":"Carnival (see other spellings and names) is a Western Christian festive season that occurs before the liturgical season of Lent. The main events typically occur during February or early March, during the period historically known as Shrovetide (or Pre-Lent). Carnival typically involves a public celebration and/or parade combining some elements of a circus, masks, and a public street party. People wear masks and costumes during many such celebrations, allowing them to lose their everyday individuality and experience a heightened sense of social unity. Excessive consumption of alcohol, meat, and other foods proscribed during Lent is extremely common. Other common features of carnival include mock battles such as food fights; social satire and mockery of authorities; the grotesque body displaying exaggerated features especially large noses, bellies, mouths, and phalli or elements of animal bodies; abusive language and degrading acts; depictions of disease and gleeful death; and a general reversal of everyday rules and norms.",
+	"image_name":"carnival"
+  }
+]
